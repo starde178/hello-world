@@ -10,7 +10,7 @@ for（y=1.5;y>-1.5：y-=0.1）
 {a=x*x+y*y-1;
 putcher（a*a*a-x*x*y*y*y<=0.0？'*'：' '）;
          }
-system（“颜色 0c”）;
+system（“color 0c”）;
 putcher（'\n'）;
          }
 printf（“晚上好\n”）;
