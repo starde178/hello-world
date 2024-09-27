@@ -15,5 +15,5 @@ putcher（'\n'）;
          }
 printf（“晚上好\n”）;
 printf（“宫来运\n”）;
-返回 0;
+return 0;
          }
